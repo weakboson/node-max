@@ -1,0 +1,17 @@
+{
+  "name": "node-max",
+  "version": "0.0.1",
+  "description": "All hail the holy v8!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "joke"
+  ],
+  "author": "weakboson",
+  "license": "ISC",
+  "dependencies": {
+    "asciify": "^1.3.5"
+  }
+}
